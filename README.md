@@ -3,10 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=풀스택%20개발자%20이종원입니다!&reversal=true&fontSize=35&fontAlign=73&fontAlignY=46" />
 </p>
 
-<h1 align="center">풀스택 개발자 이종원입니다!</h1>
-
----
-
 ## 👨‍💻 About Me
 
 안녕하세요!  
@@ -14,7 +10,7 @@
 깔끔한 코드와 효율적인 구조를 고민하고, 팀과 함께 성장하는 것을 즐깁니다.  
 항상 배움을 추구하며 성장 중입니다. 🚀
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -24,11 +20,17 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat" height="32"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="32"/>
 </p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="28"/>
+</p>
+
 
 ### 🌐 Frontend
 <p>
@@ -49,7 +51,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="32"/>
 </p>
 
----
+<br/>
+
 
 ## 📚 Currently Learning
 <p>
